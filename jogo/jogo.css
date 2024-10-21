@@ -1,0 +1,15 @@
+#Canvas{
+    background-color: #b3d9ff;
+    display: block;
+    margin: 0 auto;
+}
+#startButton{
+    display: block;
+    margin: 0 auto;
+    margin-top: 2%;
+}
+#retryButton{
+    display: block;
+    margin: 0 auto;
+    margin-top: 2%;
+}
